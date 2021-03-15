@@ -17,6 +17,6 @@ They should be structured as such:
 .
 .
 
-Information how the `max_distance` and `tightness` hyperparameters are used can be found in [the report](https://github.com/remy-wolf/station_alignment/blob/main/Transit%20Station%20Alignment%20Algorithm%20Report.pdf). `max_distance` should represent the estimated maximum distance one will travel to a transit station from a destination, and `tightness` allows control over how quickly LOS of a station drops off near max_distance. From experimentation, 5 seems to be a good value for `tightness`.
+All values should be integers. Information how the `max_distance` and `tightness` hyperparameters are used can be found in [the report](https://github.com/remy-wolf/station_alignment/blob/main/Transit%20Station%20Alignment%20Algorithm%20Report.pdf). `max_distance` should represent the estimated maximum distance one will travel to a transit station from a destination, and `tightness` allows control over how quickly LOS of a station drops off near max_distance. From experimentation, 5 seems to be a good value for `tightness`.
 
 Valid choices for `<algorithm>` are `-bfn|-bfi|-ga`, for the brute-force-naive, brute-force-intelligent, and greedy-approximation algorithms, respectively.
