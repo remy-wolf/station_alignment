@@ -1,0 +1,10 @@
+$ python main.py in5.txt -bfi
+
+LOS = 30.933071490757154
+Station at Point (-1, 0)
+
+
+$ python main.py in5.txt -ga
+
+LOS = 30.933071490757154
+Station at Point (-1, 0)

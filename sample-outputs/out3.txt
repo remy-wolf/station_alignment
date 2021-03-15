@@ -1,0 +1,17 @@
+$ python main.py in3.txt -bfi
+
+LOS = 202.9852608801945
+Station at Point (-5, -1)
+Station at Point (0, -2)
+Station at Point (1, -1)
+Station at Point (5, 4)
+
+
+$ python main.py in3.txt -ga
+
+LOS = 201.82980916082138
+Station at Point (0, 1)
+Station at Point (-4, -2)
+Station at Point (5, 4)
+Station at Point (0, -3)
+

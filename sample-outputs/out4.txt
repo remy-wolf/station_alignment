@@ -1,0 +1,12 @@
+$ python main.py in4.txt -bfi
+
+LOS = 2997.9999999999936
+Station at Point (0, -3)
+Station at Point (0, 3)
+
+
+$ python main.py in4.txt -ga
+
+LOS = 2498.5
+Station at Point (0, -2)
+Station at Point (0, 4)

@@ -1,0 +1,16 @@
+$ python main.py in1.txt -bfi
+
+LOS = 80
+Station at Point (-3, -2)
+Station at Point (-3, -1)
+Station at Point (1, 2)
+Station at Point (2, 3)
+
+
+$ python main.py in1.txt -ga
+
+LOS = 80
+Station at Point (3, 3)
+Station at Point (-1, 0)
+Station at Point (0, 1)
+Station at Point (-1, 3)

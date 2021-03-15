@@ -1,0 +1,12 @@
+$ python main.py in2.txt -bfi
+
+LOS = 72.96685231732599
+Station at Point (-1, 0)
+Station at Point (3, 3)
+
+
+$ python main.py in2.txt -ga
+
+LOS = 72.96685231732599
+Station at Point (3, 3)
+Station at Point (-1, 0)
