@@ -1,9 +1,9 @@
 # station_alignment
-An algorithm for determining the optimal placement of transit stations given a model of a city (or cities).
+A set of algorithms for determining the optimal placement of transit stations given a model of a city (or cities).
 
 Full documentation of the project, including explanation of design choices, can be found in [the report](https://github.com/remy-wolf/station_alignment/blob/main/Transit%20Station%20Alignment%20Algorithm%20Report.pdf). 
 
-Run the algorithm with `python main.py <input file> <algorithm>`.
+Run the program with `python main.py <input file> <algorithm>`.
 
 Input files should be located in the samples folder.
 They should be structured as such:  
